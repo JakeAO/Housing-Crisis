@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /gm-hollow-8a4f2d/

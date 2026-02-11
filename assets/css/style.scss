@@ -1,0 +1,317 @@
+---
+---
+
+@import "minima/skins/dark";
+@import "minima/initialize";
+
+// Autumn Hollow Theme: Spooky, Cozy, Autumnal, Stranger Things + Cosmic Horror
+// Warm autumn colors mixed with dark cosmic horror elements
+
+// Color Palette - Autumn/Horror/80s
+$background-dark: #0d0a0a;         // Deep dark brown-black
+$background-medium: #1a1410;       // Dark autumn brown
+$background-card: #221a15;         // Warm dark card background
+$primary-accent: #d4682a;          // Burnt orange
+$secondary-accent: #8b5a9e;        // Deep purple (cosmic horror)
+$autumn-gold: #d99534;             // Golden autumn
+$forest-green: #2d5016;            // Dark forest green
+$text-primary: #e8dfd0;            // Warm off-white
+$text-muted: #b8a898;              // Muted beige
+$border-color: #3d2d20;            // Dark brown borders
+$eerie-glow: #ff8c42;              // Warm eerie orange glow
+$cosmic-purple: #6b4c8a;           // Deep cosmic purple
+
+// Override Minima dark skin
+body {
+  background-color: $background-dark;
+  background-image: 
+    radial-gradient(ellipse at top, rgba($cosmic-purple, 0.1) 0%, transparent 50%),
+    radial-gradient(ellipse at bottom, rgba($primary-accent, 0.05) 0%, transparent 50%);
+  color: $text-primary;
+  font-family: 'Georgia', 'Times New Roman', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, serif;
+  line-height: 1.7;
+}
+
+// Headers with spooky autumn styling
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: $text-primary;
+  text-shadow: 0 0 12px rgba($primary-accent, 0.3), 0 2px 4px rgba(0, 0, 0, 0.5);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.5em;
+  border-bottom: 3px solid $primary-accent;
+  padding-bottom: 0.3em;
+  color: $autumn-gold;
+}
+
+h2 {
+  font-size: 2em;
+  color: $primary-accent;
+  border-bottom: 2px solid $border-color;
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.5em;
+  color: $secondary-accent;
+}
+
+// Links with warm autumn glow
+a {
+  color: $eerie-glow;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: lighten($eerie-glow, 10%);
+    text-shadow: 0 0 8px rgba($eerie-glow, 0.6);
+  }
+  
+  &:visited {
+    color: darken($eerie-glow, 10%);
+  }
+}
+
+// Site header with autumnal feel
+.site-header {
+  background-color: $background-medium;
+  background-image: linear-gradient(to bottom, rgba($forest-green, 0.2) 0%, transparent 100%);
+  border-bottom: 4px solid $primary-accent;
+  border-top: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  
+  .site-title {
+    font-family: 'Georgia', serif;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: $autumn-gold;
+    text-shadow: 0 0 20px rgba($primary-accent, 0.5), 0 2px 6px rgba(0, 0, 0, 0.8);
+    
+    &:hover {
+      text-decoration: none;
+      text-shadow: 0 0 25px rgba($primary-accent, 0.8), 0 2px 8px rgba(0, 0, 0, 1);
+      color: lighten($autumn-gold, 5%);
+    }
+  }
+  
+  .site-nav {
+    .page-link {
+      color: $text-muted;
+      font-weight: 500;
+      text-transform: uppercase;
+      font-size: 0.9em;
+      letter-spacing: 0.05em;
+      
+      &:hover {
+        color: $eerie-glow;
+      }
+    }
+  }
+}
+
+// Main content area with atmospheric gradient
+.page-content {
+  background: linear-gradient(
+    to bottom, 
+    $background-dark 0%, 
+    darken($background-medium, 2%) 50%,
+    $background-dark 100%
+  );
+  padding: 2em 0;
+  min-height: calc(100vh - 200px);
+}
+
+.wrapper {
+  background-color: rgba($background-card, 0.8);
+  border: 2px solid $border-color;
+  border-radius: 6px;
+  padding: 2em;
+  box-shadow: 
+    0 6px 24px rgba(0, 0, 0, 0.7),
+    inset 0 1px 0 rgba($primary-accent, 0.1);
+}
+
+// Post/page content
+.post-content, .page-content article {
+  h1, h2, h3 {
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}
+
+// Lists with autumn markers
+ul, ol {
+  li {
+    margin-bottom: 0.5em;
+    
+    &::marker {
+      color: $primary-accent;
+    }
+  }
+}
+
+// Blockquotes with mysterious autumn feel
+blockquote {
+  border-left: 5px solid $primary-accent;
+  background-color: rgba($forest-green, 0.15);
+  background-image: linear-gradient(to right, rgba($primary-accent, 0.05) 0%, transparent 100%);
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: $text-muted;
+  border-radius: 0 4px 4px 0;
+  
+  p {
+    margin-bottom: 0;
+  }
+}
+
+// Code blocks with autumn theme
+code, pre {
+  background-color: rgba($background-dark, 0.8);
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  font-family: 'Courier New', Courier, monospace;
+  color: $autumn-gold;
+}
+
+pre {
+  padding: 1em;
+  overflow-x: auto;
+  
+  code {
+    border: none;
+    background-color: transparent;
+  }
+}
+
+// Tables with autumn styling
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  background-color: rgba($background-card, 0.6);
+  border: 1px solid $border-color;
+  
+  th, td {
+    border: 1px solid $border-color;
+    padding: 0.75em;
+    text-align: left;
+  }
+  
+  th {
+    background-color: rgba($background-medium, 0.8);
+    color: $primary-accent;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  tr:hover {
+    background-color: rgba($primary-accent, 0.08);
+  }
+}
+
+// Footer with autumn theme
+.site-footer {
+  background-color: $background-medium;
+  background-image: linear-gradient(to top, rgba($forest-green, 0.15) 0%, transparent 100%);
+  border-top: 3px solid $primary-accent;
+  color: $text-muted;
+  
+  a {
+    color: $text-muted;
+    
+    &:hover {
+      color: $eerie-glow;
+    }
+  }
+}
+
+// Special elements
+.post-meta {
+  color: $text-muted;
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid $border-color;
+  margin: 2em 0;
+  opacity: 0.6;
+}
+
+// Home page styling
+.home {
+  .post-list {
+    h3 {
+      margin-top: 0;
+    }
+  }
+}
+
+// Trait/aspect styling (for Kids On Bikes traits)
+em {
+  color: $secondary-accent;
+  font-weight: 600;
+  font-style: italic;
+}
+
+strong {
+  color: $primary-accent;
+  font-weight: 700;
+}
+
+// Custom class for atmospheric quotes
+.atmospheric-quote {
+  font-family: 'Georgia', serif;
+  font-size: 1.2em;
+  text-align: center;
+  margin: 2em 0;
+  padding: 1.5em;
+  border-top: 2px solid $primary-accent;
+  border-bottom: 2px solid $primary-accent;
+  color: $text-muted;
+  font-style: italic;
+  background-image: 
+    linear-gradient(to right, transparent 0%, rgba($primary-accent, 0.1) 50%, transparent 100%);
+}
+
+// Special class for time loop indicators
+.time-loop-note {
+  background-color: rgba($cosmic-purple, 0.2);
+  border: 2px dashed $secondary-accent;
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 6px;
+  font-style: italic;
+  color: lighten($text-muted, 5%);
+}
+
+// Responsive adjustments
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  .wrapper {
+    padding: 1em;
+  }
+  
+  .site-header .site-title {
+    font-size: 1.6em;
+  }
+}
