@@ -5,8 +5,6 @@ topic: NPCs
 summary: "[One-sentence summary of the NPC's role or mystery]"
 ---
 
-# [NPC Name]
-
 **Role:** (e.g., Local Sheriff / Strange Librarian / Mysterious Newcomer)
 
 ## Description

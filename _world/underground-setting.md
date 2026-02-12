@@ -5,8 +5,6 @@ topic: Setting
 summary: Corporate control, failed government, and satirical dystopia
 ---
 
-# Underground: The Dystopian World
-
 ## The Premise
 
 Welcome to the **near future**—or more accurately, the worst-case present stretched to its breaking point.

@@ -5,8 +5,6 @@ topic: Quick Reference
 summary: Essential rules and tables for running Housing Crisis
 ---
 
-# GM Quick Reference Sheet
-
 ## Core Mechanics
 
 ### Attribute Checks

@@ -5,8 +5,6 @@ topic: Factions
 summary: "[One-sentence summary of the group's purpose or influence]"
 ---
 
-# [Faction Name]
-
 **Type:** [Friend Group / Town Institution / Secret Society]
 
 ## Overview

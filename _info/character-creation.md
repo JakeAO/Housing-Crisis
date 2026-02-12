@@ -5,8 +5,6 @@ topic: Character Creation
 summary: Creating your genetically engineered super-soldier for Housing Crisis
 ---
 
-## What is a Slushie?
-
 "Slushie" is military slang for a genetically engineered super-soldier. The name comes from the cryogenic "slush" tanks used during the bioengineering process. You survived genetic modification, combat conditioning, psychological programming, and multiple covert wars. The government promised you paradise. They gave you a war zone.
 
 ## Character Concept

@@ -5,8 +5,6 @@ topic: Campaign Planning
 summary: 20-session structure with key beats and pacing
 ---
 
-# Campaign Arc Breakdown: 20 Sessions
-
 ## Overview
 
 The Housing Crisis campaign is structured as three distinct arcs spanning 20 sessions. Each arc escalates in scope and stakes while maintaining focus on transforming Paradise Heights.

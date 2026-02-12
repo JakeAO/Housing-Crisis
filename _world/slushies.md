@@ -5,8 +5,6 @@ topic: Factions
 summary: History and reality of genetically engineered veterans
 ---
 
-# The Slushies: Super Soldiers
-
 ## The Name
 
 "Slushie" is military slang—sometimes affectionate, sometimes derogatory—for genetically engineered super-soldiers.

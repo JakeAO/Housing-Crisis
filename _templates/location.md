@@ -5,8 +5,6 @@ topic: Locations
 summary: "[Short description of the place in town]"
 ---
 
-# [Location Name]
-
 **Type:** [Landmark / Business / Secret Site]
 
 ## Overview

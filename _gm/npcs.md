@@ -5,8 +5,6 @@ topic: NPCs
 summary: Major characters, motivations, and how to use them
 ---
 
-# Key NPCs and Antagonists
-
 ## Residents - Allies and Community
 
 ### Maria Santos - Community Organizer
