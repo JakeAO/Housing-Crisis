@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Sessions
-description: Session summaries and loop chronicle
+description: Chronicle of Paradise Heights transformation
 permalink: /sessions/
 ---
 
-Below are session summaries documenting your journey through the loops of Autumn Hollow, ordered chronologically.
+# Session Summaries
+
+This page chronicles the transformation of Paradise Heights across 20 sessions, tracking victories, setbacks, and the community's journey from war zone to thriving neighborhood.
 
 {% assign items = site.sessions | sort: 'index' %}
 
@@ -16,9 +18,28 @@ Below are session summaries documenting your journey through the loops of Autumn
 {% endfor %}
 </ul>
 {% else %}
-<p><em>No sessions have been recorded yet. The first loop begins soon!</em></p>
+<p><em>Sessions will be added as the campaign progresses.</em></p>
 {% endif %}
 
 ---
 
-*Summaries are added after each session to track your progress, discoveries, and theories about breaking the loop.*
+## Campaign Progress
+
+**Current Statistics** (updated after each session):
+
+- **Safety:** TBD
+- **Employment:** TBD  
+- **Health:** TBD
+- **Infrastructure:** TBD
+- **Education:** TBD
+- **Morale:** TBD
+- **Crime:** TBD (lower is better)
+- **Corruption:** TBD (lower is better)
+
+**Quality of Life Score:** TBD out of 60
+
+**Sessions Completed:** 0 of 20
+
+---
+
+*The story of Paradise Heights is being written one session at a time.*

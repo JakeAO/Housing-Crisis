@@ -4,41 +4,50 @@
 @import "minima/skins/dark";
 @import "minima/initialize";
 
-// Autumn Hollow Theme: Spooky, Cozy, Autumnal, Stranger Things + Cosmic Horror
-// Warm autumn colors mixed with dark cosmic horror elements
+// Housing Crisis Theme: Gritty Cyberpunk Dystopia, Urban Decay, Corporate Satire
+// Cold industrial colors mixed with neon accents and rust/decay elements
 
-// Color Palette - Autumn/Horror/80s
-$background-dark: #0d0a0a;         // Deep dark brown-black
-$background-medium: #1a1410;       // Dark autumn brown
-$background-card: #221a15;         // Warm dark card background
-$primary-accent: #d4682a;          // Burnt orange
-$secondary-accent: #8b5a9e;        // Deep purple (cosmic horror)
-$autumn-gold: #d99534;             // Golden autumn
-$forest-green: #2d5016;            // Dark forest green
-$text-primary: #e8dfd0;            // Warm off-white
-$text-muted: #b8a898;              // Muted beige
-$border-color: #3d2d20;            // Dark brown borders
-$eerie-glow: #ff8c42;              // Warm eerie orange glow
-$cosmic-purple: #6b4c8a;           // Deep cosmic purple
+// Color Palette - Cyberpunk/Dystopian/Urban Decay
+$background-dark: #0a0c0f;         // Deep black with blue tint
+$background-medium: #151820;       // Dark concrete gray
+$background-card: #1a1f28;         // Card background (dark steel)
+$primary-accent: #00d9ff;          // Neon cyan
+$secondary-accent: #ff6b35;        // Warning orange
+$toxic-green: #39ff14;             // Toxic/radioactive green
+$rust-red: #b7410e;                // Rust/decay red
+$concrete-gray: #6b7280;           // Mid concrete gray
+$text-primary: #e0e5eb;            // Cold off-white
+$text-muted: #9ca3af;              // Muted gray
+$border-color: #2d3748;            // Dark border
+$neon-glow: #00ffff;               // Bright cyan glow
+$warning-yellow: #fbbf24;          // Warning/caution yellow
 
 // Override Minima dark skin
 body {
   background-color: $background-dark;
   background-image: 
-    radial-gradient(ellipse at top, rgba($cosmic-purple, 0.1) 0%, transparent 50%),
-    radial-gradient(ellipse at bottom, rgba($primary-accent, 0.05) 0%, transparent 50%);
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba($primary-accent, 0.03) 2px,
+      rgba($primary-accent, 0.03) 4px
+    ),
+    radial-gradient(ellipse at top right, rgba($secondary-accent, 0.08) 0%, transparent 50%),
+    radial-gradient(ellipse at bottom left, rgba($primary-accent, 0.06) 0%, transparent 50%);
   color: $text-primary;
-  font-family: 'Georgia', 'Times New Roman', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, serif;
-  line-height: 1.7;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Liberation Sans", Arial, sans-serif;
+  line-height: 1.6;
 }
 
-// Headers with spooky autumn styling
+// Headers with industrial dystopian styling
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Georgia', 'Times New Roman', serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
   font-weight: 700;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
   color: $text-primary;
-  text-shadow: 0 0 12px rgba($primary-accent, 0.3), 0 2px 4px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 0 10px rgba($primary-accent, 0.4), 0 2px 4px rgba(0, 0, 0, 0.8);
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
@@ -47,95 +56,114 @@ h1 {
   font-size: 2.5em;
   border-bottom: 3px solid $primary-accent;
   padding-bottom: 0.3em;
-  color: $autumn-gold;
+  color: $neon-glow;
+  letter-spacing: 0.05em;
 }
 
 h2 {
   font-size: 2em;
-  color: $primary-accent;
+  color: $secondary-accent;
   border-bottom: 2px solid $border-color;
+  border-left: 4px solid $secondary-accent;
   padding-bottom: 0.2em;
+  padding-left: 0.5em;
 }
 
 h3 {
   font-size: 1.5em;
-  color: $secondary-accent;
+  color: $warning-yellow;
 }
 
-// Links with warm autumn glow
+// Links with neon glow
 a {
-  color: $eerie-glow;
+  color: $primary-accent;
   text-decoration: none;
   transition: all 0.3s ease;
   
   &:hover {
-    color: lighten($eerie-glow, 10%);
-    text-shadow: 0 0 8px rgba($eerie-glow, 0.6);
+    color: lighten($primary-accent, 10%);
+    text-shadow: 0 0 10px rgba($neon-glow, 0.8);
   }
   
   &:visited {
-    color: darken($eerie-glow, 10%);
+    color: darken($primary-accent, 15%);
   }
 }
 
-// Site header with autumnal feel
+// Site header with cyberpunk brutalist feel
 .site-header {
   background-color: $background-medium;
-  background-image: linear-gradient(to bottom, rgba($forest-green, 0.2) 0%, transparent 100%);
+  background-image: 
+    linear-gradient(90deg, rgba($primary-accent, 0.1) 0%, transparent 50%, rgba($secondary-accent, 0.1) 100%),
+    linear-gradient(to bottom, rgba($background-card, 0.8) 0%, transparent 100%);
   border-bottom: 4px solid $primary-accent;
-  border-top: none;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  border-top: 2px solid $border-color;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.9), 0 0 20px rgba($primary-accent, 0.2);
   
   .site-title {
-    font-family: 'Georgia', serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
     font-size: 2em;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    color: $autumn-gold;
-    text-shadow: 0 0 20px rgba($primary-accent, 0.5), 0 2px 6px rgba(0, 0, 0, 0.8);
+    font-weight: 900;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: $neon-glow;
+    text-shadow: 
+      0 0 20px rgba($neon-glow, 0.6),
+      0 0 40px rgba($neon-glow, 0.4),
+      0 2px 8px rgba(0, 0, 0, 1);
     
     &:hover {
       text-decoration: none;
-      text-shadow: 0 0 25px rgba($primary-accent, 0.8), 0 2px 8px rgba(0, 0, 0, 1);
-      color: lighten($autumn-gold, 5%);
+      text-shadow: 
+        0 0 25px rgba($neon-glow, 0.9),
+        0 0 50px rgba($neon-glow, 0.6),
+        0 2px 10px rgba(0, 0, 0, 1);
+      color: lighten($neon-glow, 5%);
     }
   }
   
   .site-nav {
     .page-link {
       color: $text-muted;
-      font-weight: 500;
+      font-weight: 600;
       text-transform: uppercase;
-      font-size: 0.9em;
-      letter-spacing: 0.05em;
+      font-size: 0.85em;
+      letter-spacing: 0.1em;
+      border-left: 2px solid $border-color;
+      padding-left: 0.8em;
+      margin-left: 0.5em;
       
       &:hover {
-        color: $eerie-glow;
+        color: $primary-accent;
+        text-shadow: 0 0 8px rgba($primary-accent, 0.6);
       }
     }
   }
 }
 
-// Main content area with atmospheric gradient
+// Main content area with concrete texture
 .page-content {
-  background: linear-gradient(
-    to bottom, 
-    $background-dark 0%, 
-    darken($background-medium, 2%) 50%,
-    $background-dark 100%
-  );
+  background: 
+    linear-gradient(
+      to bottom, 
+      $background-dark 0%, 
+      darken($background-medium, 1%) 50%,
+      $background-dark 100%
+    );
   padding: 2em 0;
   min-height: calc(100vh - 200px);
 }
 
 .wrapper {
-  background-color: rgba($background-card, 0.8);
+  background-color: rgba($background-card, 0.9);
   border: 2px solid $border-color;
-  border-radius: 6px;
+  border-left: 4px solid $primary-accent;
+  border-radius: 2px;
   padding: 2em;
   box-shadow: 
-    0 6px 24px rgba(0, 0, 0, 0.7),
-    inset 0 1px 0 rgba($primary-accent, 0.1);
+    0 8px 32px rgba(0, 0, 0, 0.9),
+    inset 0 1px 0 rgba($primary-accent, 0.15),
+    0 0 40px rgba($primary-accent, 0.1);
 }
 
 // Post/page content
@@ -147,7 +175,7 @@ a {
   }
 }
 
-// Lists with autumn markers
+// Lists with neon markers
 ul, ol {
   li {
     margin-bottom: 0.5em;
@@ -158,34 +186,36 @@ ul, ol {
   }
 }
 
-// Blockquotes with mysterious autumn feel
+// Blockquotes with warning/alert feel
 blockquote {
-  border-left: 5px solid $primary-accent;
-  background-color: rgba($forest-green, 0.15);
-  background-image: linear-gradient(to right, rgba($primary-accent, 0.05) 0%, transparent 100%);
+  border-left: 5px solid $secondary-accent;
+  background-color: rgba($rust-red, 0.08);
+  background-image: linear-gradient(to right, rgba($secondary-accent, 0.1) 0%, transparent 100%);
   padding: 1em 1.5em;
   margin: 1.5em 0;
   font-style: italic;
   color: $text-muted;
-  border-radius: 0 4px 4px 0;
+  border-radius: 0 2px 2px 0;
+  box-shadow: inset 4px 0 8px rgba($secondary-accent, 0.2);
   
   p {
     margin-bottom: 0;
   }
 }
 
-// Code blocks with autumn theme
+// Code blocks with terminal theme
 code, pre {
-  background-color: rgba($background-dark, 0.8);
+  background-color: rgba($background-dark, 0.9);
   border: 1px solid $border-color;
-  border-radius: 4px;
-  font-family: 'Courier New', Courier, monospace;
-  color: $autumn-gold;
+  border-radius: 2px;
+  font-family: 'Courier New', 'Consolas', 'Monaco', monospace;
+  color: $toxic-green;
 }
 
 pre {
   padding: 1em;
   overflow-x: auto;
+  border-left: 3px solid $primary-accent;
   
   code {
     border: none;
@@ -193,13 +223,13 @@ pre {
   }
 }
 
-// Tables with autumn styling
+// Tables with industrial styling
 table {
   border-collapse: collapse;
   width: 100%;
   margin: 1.5em 0;
-  background-color: rgba($background-card, 0.6);
-  border: 1px solid $border-color;
+  background-color: rgba($background-card, 0.7);
+  border: 2px solid $border-color;
   
   th, td {
     border: 1px solid $border-color;
@@ -208,30 +238,33 @@ table {
   }
   
   th {
-    background-color: rgba($background-medium, 0.8);
+    background-color: rgba($background-medium, 0.9);
     color: $primary-accent;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.08em;
+    border-bottom: 2px solid $primary-accent;
   }
   
   tr:hover {
-    background-color: rgba($primary-accent, 0.08);
+    background-color: rgba($primary-accent, 0.1);
   }
 }
 
-// Footer with autumn theme
+// Footer with brutalist theme
 .site-footer {
   background-color: $background-medium;
-  background-image: linear-gradient(to top, rgba($forest-green, 0.15) 0%, transparent 100%);
+  background-image: 
+    linear-gradient(to top, rgba($background-card, 0.5) 0%, transparent 100%);
   border-top: 3px solid $primary-accent;
   color: $text-muted;
+  box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.8);
   
   a {
     color: $text-muted;
     
     &:hover {
-      color: $eerie-glow;
+      color: $primary-accent;
     }
   }
 }
@@ -259,21 +292,21 @@ hr {
   }
 }
 
-// Trait/aspect styling (for Kids On Bikes traits)
+// Underground RPG styling
 em {
-  color: $secondary-accent;
+  color: $warning-yellow;
   font-weight: 600;
   font-style: italic;
 }
 
 strong {
-  color: $primary-accent;
+  color: $secondary-accent;
   font-weight: 700;
 }
 
-// Custom class for atmospheric quotes
-.atmospheric-quote {
-  font-family: 'Georgia', serif;
+// Custom class for dystopian quotes
+.dystopian-quote {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
   font-size: 1.2em;
   text-align: center;
   margin: 2em 0;
@@ -282,19 +315,36 @@ strong {
   border-bottom: 2px solid $primary-accent;
   color: $text-muted;
   font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
   background-image: 
-    linear-gradient(to right, transparent 0%, rgba($primary-accent, 0.1) 50%, transparent 100%);
+    linear-gradient(to right, transparent 0%, rgba($primary-accent, 0.15) 50%, transparent 100%);
 }
 
-// Special class for time loop indicators
-.time-loop-note {
-  background-color: rgba($cosmic-purple, 0.2);
-  border: 2px dashed $secondary-accent;
+// Special class for Social Change indicators
+.social-change-note {
+  background-color: rgba($primary-accent, 0.12);
+  border: 2px solid $primary-accent;
+  border-left: 5px solid $primary-accent;
   padding: 1em;
   margin: 1.5em 0;
-  border-radius: 6px;
-  font-style: italic;
-  color: lighten($text-muted, 5%);
+  border-radius: 2px;
+  font-weight: 500;
+  color: lighten($text-muted, 8%);
+  box-shadow: 0 0 15px rgba($primary-accent, 0.2);
+}
+
+// Special class for warning/danger alerts
+.warning-box {
+  background-color: rgba($secondary-accent, 0.12);
+  border: 2px solid $secondary-accent;
+  border-left: 5px solid $secondary-accent;
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 2px;
+  font-weight: 500;
+  color: lighten($text-muted, 8%);
+  box-shadow: 0 0 15px rgba($secondary-accent, 0.2);
 }
 
 // Responsive adjustments

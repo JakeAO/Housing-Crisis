@@ -8,7 +8,7 @@ nav_exclude: true
 
 # GM Vault – Campaign Resources
 
-This page contains GM-only notes, planning documents, and hidden campaign information for Autumn Hollow.
+This page contains GM-only notes, planning documents, and hidden campaign information for Housing Crisis.
 
 {% assign groups = site.gm | group_by: "topic" | sort: 'name' %}
 {% for group in groups %}
@@ -26,4 +26,4 @@ This page contains GM-only notes, planning documents, and hidden campaign inform
 
 ---
 
-*Remember: This URL is obscured but not secure. Don't post sensitive player information here.*
+*Remember: This URL is not secure. Don't post sensitive player information here.*

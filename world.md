@@ -1,13 +1,13 @@
 ---
 layout: page
 title: World
-description: Setting, characters, locations, and mysteries revealed during play
+description: Neo-L.A., Slushies, corporations, factions, and life in the dystopia
 permalink: /world/
 ---
 
-This page contains all player-facing information about the world of Autumn Hollow – the town, its inhabitants, key locations, and the cosmic mysteries lurking beneath the surface.
+This page contains all player-facing information about the world of Housing Crisis – Neo-L.A., the super-soldier program, corporations and gangs, and the satirical dystopian setting of Underground.
 
-Information is added here as it's discovered during the campaign, loop by loop.
+Information is added here as it's discovered during the campaign, session by session.
 
 {% assign groups = site.world | group_by: "topic" | sort: 'name' %}
 {% for group in groups %}
@@ -25,14 +25,16 @@ Information is added here as it's discovered during the campaign, loop by loop.
 
 ---
 
-## About Autumn Hollow
+## About Paradise Heights
 
-Autumn Hollow is a small Indiana town frozen in October 31st, 1986. Population: 3,847. Main Street has a hardware store, diner, movie theater, and arcade. Most families have lived here for generations. Everyone knows everyone.
+Paradise Heights is your new home—a crumbling 40-story housing project in the worst part of Neo-L.A. (formerly Los Angeles). It was supposed to be "Veteran's Paradise," a luxury complex for super-soldier veterans. Instead, it's a war zone.
 
-But something happened three nights ago. Or maybe it was three hundred nights ago—time doesn't work right anymore. The loop resets at midnight. Most people don't notice. But you do.
+The government lied. The elevators barely work. The water's contaminated. Corporate-sponsored gangs control the ground floor. Rent-A-Cops extort residents. The "state-of-the-art facilities" are either broken or nonexistent.
 
-And in the woods at the edge of town, something ancient is stirring.
+Most residents are desperate, traumatized, or both. Crime is rampant. Infrastructure is failing. The corporations that technically own the land don't care—Paradise Heights is a tax write-off.
+
+But you're Slushies. You didn't survive genetic engineering, combat conditioning, and secret wars to live like this. You're going to fix this place. One block at a time. Whatever it takes.
 
 ---
 
-*This section grows as you explore the town and uncover its secrets, loop by loop.*
+*This section grows as you explore Neo-L.A. and uncover the depth of corporate control, session by session.*
