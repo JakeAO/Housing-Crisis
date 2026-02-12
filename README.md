@@ -1,30 +1,42 @@
-# Autumn Hollow Campaign Hub
+# Housing Crisis Campaign Hub
 
-A Jekyll-based static site for the Autumn Hollow TTRPG campaign, featuring a spooky, cozy, autumnal aesthetic with cosmic horror elements.
+A Jekyll-based static site for the Housing Crisis TTRPG campaign, featuring a gritty cyberpunk dystopian aesthetic with satirical corporate horror elements.
 
 ## Overview
 
-This repository hosts the campaign hub for **Autumn Hollow**, a Kids On Bikes campaign set in a small Indiana town trapped in an eternal October 31st, 1986 time loop. When cosmic forces threaten their town, a group of kids must solve the mystery and break the cycle.
+This repository hosts the campaign hub for **Housing Crisis**, a Ray Winninger's Underground RPG campaign set in a crumbling, gang-infested housing project in Neo-L.A. Veteran super-soldiers ("Slushies") fight to transform their war zone into a self-sustaining utopia over 20 sessions of corporate warfare and community building.
+
+## Campaign Structure
+
+**Housing Crisis** spans 20 sessions across three major arcs:
+
+1. **Sessions 1–7:** Street-Level Threats — Dealing with corporate-sponsored gangs and corrupt "Rent-A-Cops"
+2. **Sessions 8–14:** Infrastructure Building — Securing clean water, food (Tastee-Goo alternatives), and medical supplies through "liberation" missions
+3. **Sessions 15–20:** Corporate Pushback — The neighborhood's success attracts corporate attention, culminating in a massive high-power siege
+
+**Key Themes:** Satirical cyberpunk dystopia, corporate greed, housing crisis, social change mechanics, genetically engineered super-soldiers, urban decay, consumer dystopia
+
+**Cultural Touchstones:** Robocop, Judge Dredd, Escape from New York, The Warriors, Brazil, Blade Runner (with crass product placement), 1990s urban decay
 
 ## Features
 
 - **Public Player Content:**
-  - Rules & Info: Kids On Bikes mechanics and cheat sheets
-  - World: Setting, revealed NPCs, locations, and mysteries
-  - Sessions: Chronological session summaries tracking loop progress
+  - Rules & Info: Underground RPG mechanics, Social Change system, and power references
+  - World: Neo-L.A. setting, Slushies background, corporations, and factions
+  - Sessions: Chronological session summaries tracking neighborhood transformation
   
 - **Private GM Content:**
-  - Accessible via obscured URL (`/gm-hollow-8a4f2d/`)
-  - Campaign planning and time loop mechanics
-  - Hidden NPC secrets and motivations
-  - World secrets and cosmic horror revelations
+  - Accessible via `/gm/` URL
+  - Campaign arc breakdowns and session planning (20 sessions)
+  - NPCs, corporate antagonists, and gang factions
+  - Plot hooks, worldbuilding secrets, and adventure seeds
   - Not indexed by search engines (via robots.txt)
 
 - **Theme:**
-  - Warm autumn colors (oranges, browns, golds)
-  - Spooky but cozy 1980s small-town atmosphere
-  - Stranger Things + cosmic horror aesthetic
-  - Coming-of-age story vibes
+  - Gritty urban decay color scheme (concrete grays, neon accents, rust colors)
+  - Industrial/dystopian typography
+  - Corporate dystopia and urban warfare aesthetic
+  - 1990s cyberpunk with brutalist design elements
   - Mobile-responsive design
 
 ## Local Development
@@ -55,19 +67,25 @@ The site will be available at `http://localhost:4000`
 .
 ├── _config.yml           # Jekyll configuration
 ├── _info/                # Rules and mechanics (public)
-│   ├── mechanics/        # Kids On Bikes gameplay explanations
-│   └── cheat-sheets/     # Quick reference sheets
+│   ├── character-creation/   # Slushie creation and powers
+│   ├── social-change/        # Neighborhood stat tracking system
+│   ├── combat-powers/        # Combat and power usage
+│   ├── cheat-sheets/         # Quick reference sheets
+│   └── setting-rules/        # Technology and economics
 ├── _world/               # Campaign world content (public)
-│   ├── npcs/             # Non-player characters
-│   ├── locations/        # Places in town
-│   └── factions/         # Groups and organizations
+│   ├── setting/          # Underground dystopia overview
+│   ├── neo-la/           # City and housing project
+│   ├── slushies/         # Super-soldier background
+│   ├── factions/         # Corporations and gangs
+│   └── technology/       # Cybernetics and daily life
 ├── _sessions/            # Session summaries (public)
 ├── _gm/                  # GM-only content (private URL)
-│   ├── planning/         # Campaign and session planning
-│   ├── npcs/             # Secret NPC information
-│   └── secrets/          # Hidden world lore
+│   ├── campaign-arcs/    # 20-session breakdown
+│   ├── npcs/             # NPCs, corporates, gangs
+│   ├── secrets/          # Hidden worldbuilding
+│   └── adventures/       # Mission seeds and hooks
 ├── _templates/           # Templates for new content
-├── assets/css/           # Custom autumn/horror styling
+├── assets/css/           # Custom cyberpunk/dystopian styling
 ├── index.md              # Home page
 ├── info.md               # Rules landing page
 ├── world.md              # World landing page
@@ -128,10 +146,10 @@ The site automatically deploys to GitHub Pages via GitHub Actions when changes a
 The site uses Jekyll's Minima theme with extensive customization in `assets/css/style.scss`. The autumn/horror color scheme and styling can be adjusted there.
 
 ### Color Palette
-- **Background:** Deep dark browns and blacks
-- **Accents:** Burnt orange, golden autumn, deep purple
-- **Text:** Warm off-white and muted beige
-- **Atmosphere:** Cozy autumn meets cosmic horror
+- **Background:** Concrete grays and deep blacks
+- **Accents:** Neon cyan, warning orange, toxic green
+- **Text:** Off-white and cold gray
+- **Atmosphere:** Urban decay meets corporate dystopia
 
 ## Contributing
 
@@ -145,6 +163,6 @@ Campaign content is private. The Jekyll structure and theme are based on open-so
 
 - Built with [Jekyll](https://jekyllrb.com/)
 - Theme based on [Minima](https://github.com/jekyll/minima)
-- Powered by [Kids On Bikes](https://www.huntersentertainment.com/kids-on-bikes) by Hunters Entertainment
-- Inspired by Stranger Things, Gravity Falls, and cosmic horror
-- Structure inspired by [Vaultlight](https://github.com/JakeAO/Vaultlight)
+- Powered by **Underground** by Ray Winninger (Mayfair Games, 1993)
+- Inspired by Robocop, Judge Dredd, Escape from New York, The Warriors, Brazil, Blade Runner
+- Structure inspired by [Autumn-Hollow](https://github.com/JakeAO/Autumn-Hollow)

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Rules & Info
-description: Kids On Bikes rules, mechanics, and cheat sheets
+description: Underground RPG rules, Social Change mechanics, and power references
 permalink: /info/
 ---
 
-This page contains player-facing rules clarifications, cheat sheets, and game mechanics for the Autumn Hollow campaign.
+This page contains player-facing rules clarifications, cheat sheets, and game mechanics for the Housing Crisis campaign using Ray Winninger's Underground RPG.
 
 ## Core Resources
 
-- **[Kids On Bikes Official Site](https://www.huntersentertainment.com/kids-on-bikes)** – Publisher's home page
-- **[Kids On Bikes on DriveThruRPG](https://www.drivethrurpg.com/product/231938/Kids-on-Bikes)** – Digital rulebook
-- **[Character Sheets](https://www.huntersentertainment.com/character-sheets)** – Official downloadable sheets
+- **Underground RPG** – Original rulebook by Ray Winninger (Mayfair Games, 1993)
+- **Social Change System** – Neighborhood improvement mechanics central to this campaign
+- **Power Generation** – Slushie abilities and creative applications
 
 ## Quick Reference
 
@@ -42,4 +42,4 @@ Below are campaign-specific resources and rules clarifications, organized by top
 
 ---
 
-*New to Kids On Bikes? The system is designed to be easy to learn—you can start playing with just the Quick Reference sheet above!*
+*New to Underground? The system emphasizes creative power usage, social consequences, and the collateral damage of superhuman violence in a dystopian world.*

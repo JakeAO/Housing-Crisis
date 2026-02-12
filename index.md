@@ -1,46 +1,59 @@
 ---
 layout: home
-title: Autumn Hollow
+title: Housing Crisis
 permalink: /
 ---
 
-Welcome to **Autumn Hollow**, a coming-of-age cosmic horror campaign trapped in an eternal autumn time loop.
+Welcome to **Housing Crisis**, an Underground RPG campaign where veteran super-soldiers fight to transform a crumbling war zone into a thriving community.
 
-- Explore [Rules & Info]({{ "/info/" | relative_url }}) for Kids On Bikes mechanics and cheat sheets
-- Discover the [World]({{ "/world/" | relative_url }}) – its setting, inhabitants, and mysteries
-- Read [Session Summaries]({{ "/sessions/" | relative_url }}) chronicling your adventures through the loops
+- Explore [Rules & Info]({{ "/info/" | relative_url }}) for Underground mechanics, Social Change system, and power references
+- Discover the [World]({{ "/world/" | relative_url }}) – Neo-L.A., the Slushies, corporations, and daily life in the dystopia
+- Read [Session Summaries]({{ "/sessions/" | relative_url }}) chronicling the neighborhood's transformation
 
 ## The Premise
 
-You're a kid in Autumn Hollow, a small town where October 31st, 1986 never ends. Every morning you wake up to the same autumn day—leaves falling, jack-o'-lanterns on porches, and Halloween decorations lining Main Street. Most people don't notice. But you do.
+You're a "Slushie"—a genetically engineered super-soldier who survived the secret wars. The government promised you luxury accommodations in "Veteran's Paradise," a state-of-the-art complex with every amenity. Instead, they dumped you in a crumbling, gang-infested housing project in the worst part of Neo-L.A.
 
-Something is wrong with your town. Time is broken. And the adults either can't see it or won't talk about it.
+Welcome to Paradise Heights. The elevators don't work. The water's contaminated. Corporate-sponsored gangs control the streets. Rent-A-Cops shake down residents for "protection fees." The "luxury amenities" are a joke—if they exist at all.
 
-Maybe it started when that thing fell from the sky three nights ago—or was it three hundred nights ago? The stars look different now. Wrong. Like they're watching. And at the edge of town, in the woods past Miller's Creek, there's something that definitely wasn't there before. Something that doesn't belong in this world.
+But you didn't survive bioengineering and combat conditioning to live in a warzone. You and your fellow Slushies are going to fix this place. Block by block. Building by building. Whatever it takes.
 
-You and your friends are the only ones who remember. You're the only ones who know the loop resets every night at midnight. And you're the only ones who can figure out why.
+The corporations won't like it. The gangs won't go quietly. The corrupt cops will push back. And when Paradise Heights starts looking *too* nice, the original developers will want their land back.
+
+Twenty sessions. One neighborhood. Can you turn hell into paradise before the corporate siege begins?
+
+## Campaign Structure
+
+**Arc 1: Street-Level Threats (Sessions 1-7)**  
+Deal with local gangs, corrupt Rent-A-Cops, and immediate survival needs. Establish your power base and start building community trust.
+
+**Arc 2: Infrastructure Building (Sessions 8-14)**  
+Secure clean water, food sources (alternatives to Tastee-Goo), medical supplies, and essential services. "Liberate" resources from corporate warehouses. Implement Social Change mechanics to improve neighborhood stats.
+
+**Arc 3: Corporate Pushback (Sessions 15-20)**  
+Success has made Paradise Heights visible. The corporations want their valuable real estate back. Prepare for and survive a massive corporate siege while maintaining everything you've built.
 
 ## Atmosphere
 
-- **Small Town 1980s:** Bike rides, arcade games, walkie-talkies, and BMX jumps
-- **Eternal Autumn:** Orange leaves, pumpkin patches, harvest festivals frozen in time
-- **Coming-of-Age:** Friendship, growing up, facing fears, and protecting what matters
-- **Cosmic Horror:** Ancient forces, impossible geometries, and truths too vast to comprehend
-- **Time Loop Mystery:** Repeating days, gathering clues, and trying to break the cycle
+- **Satirical Cyberpunk:** Exaggerated corporate dystopia with biting social commentary
+- **Urban Warfare:** Street-level combat, tactical thinking, and creative power usage
+- **1990s Aesthetic:** Concrete brutalism, neon signs, crass product placement everywhere
+- **Social Change:** Your actions directly improve (or harm) neighborhood statistics
+- **Dark Humor:** Hopeful resistance against overwhelming corporate absurdity
 
 ## Themes
 
 **What makes this campaign unique:**
-- The **time loop** creates urgency—you can experiment and fail, but you must make progress
-- **Cosmic horror** mixed with kid protagonists creates vulnerability and wonder
-- **Autumn setting** provides cozy small-town atmosphere against creeping dread  
-- **1980s nostalgia** grounds the weird in familiar touchstones
-- **Coming-of-age story** about kids becoming heroes when adults can't or won't help
+- The **Social Change system** tracks neighborhood improvement across 8 statistics (Safety, Employment, Health, Infrastructure, Education, Morale, Crime, Corruption)
+- **Slushies** are powerful but traumatized—superhuman abilities meet PTSD and broken promises
+- **Corporate satire** everywhere—Tastee-Goo, Rent-A-Cops, privatized everything, media manipulation
+- **Community building** as the core gameplay loop—you're not just fighting, you're fixing a broken society
+- **Escalating threats** from street gangs to full corporate warfare over 20 sessions
 
 ## System
 
-This campaign uses **Kids On Bikes**, a narrative RPG system designed for young protagonists solving mysteries in small-town settings. The system emphasizes collaborative storytelling, simple dice mechanics, and the power of friendship. See the [Info section]({{ "/info/" | relative_url }}) for rules and resources.
+This campaign uses **Underground**, Ray Winninger's satirical superhero RPG set in a dystopian near-future. The system emphasizes creative power usage, social mechanics, and the consequences of collateral damage. See the [Info section]({{ "/info/" | relative_url }}) for rules and resources.
 
 ---
 
-*"The stars are wrong. The loop continues. And somewhere in town, something is waking up."*
+*"They promised us paradise. They gave us hell. Time to make our own."*
