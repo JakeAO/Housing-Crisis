@@ -265,8 +265,6 @@ You were programmed to be a weapon:
 - Substance abuse
 - Seeking combat situations
 
-**Players can choose their character's relationship with their trauma.**
-
 ## How Baseline Humans See You
 
 ### Fear and Awe
@@ -304,8 +302,6 @@ You were programmed to be a weapon:
 - Government wants deniable assets
 - Media wants sensational stories
 
-**Everyone wants your power. Few care about your humanity.**
-
 ## Slushie Culture and Community
 
 ### Unspoken Bonds
@@ -329,81 +325,6 @@ Slushies recognize each other:
 - Stories are shared (who did you serve with?)
 - Support is offered (we take care of our own)
 - Judgment is rare (we've all done things)
-
-### Code of Conduct (Unofficial)
-
-**Look Out for Each Other:**
-- Slushies help Slushies (when possible)
-- Share resources, intelligence, support
-- No one else will help you
-
-**Don't Make It Worse:**
-- Your actions affect all enhanced people
-- High-profile violence brings crackdowns
-- Collateral damage creates backlash
-- Think about the next Slushie
-
-**Remember the Fallen:**
-- 40% died in enhancement
-- More died in combat
-- Some are still fighting
-- Some gave up
-- Honor their memory by being better
-
-### Paradise Heights Slushies
-
-**You're not the only enhanced resident:**
-- 50-100 other Slushies live in Paradise Heights
-- Most keep to themselves
-- Some are broken by PTSD
-- Some are dangerous
-- Some are potential allies
-
-**Your choice:** Build a Slushie community or go solo?
-
-## The Future of Slushies
-
-### What Happens Now?
-
-The program is over. You're out. Now what?
-
-**Options:**
-1. **Survive:** Keep your head down, collect your pension, try to be normal
-2. **Mercenary:** Sell your skills to the highest bidder
-3. **Vigilante:** Use your power to help people (or hurt those who deserve it)
-4. **Community Builder:** Fix Paradise Heights, prove you're more than a weapon
-5. **Revolutionary:** The system that made you is evil. Tear it down.
-
-**The Campaign assumes option 4, but characters can have mixed motivations.**
-
-### Legacy
-
-**What do Slushies leave behind?**
-
-If you do nothing: 
-- Memory of failed program
-- Cautionary tale about bioengineering
-- Corporate lesson: robots cheaper than people
-
-If you succeed at Paradise Heights:
-- Proof that Slushies are people, not just weapons
-- Model for other communities
-- Hope that power can build instead of destroy
-
-**Your choice matters.**
-
----
-
-## Quotes from Slushies
-
-*"They made us into monsters and expected us to come home as heroes. We're trying. It's hard."*  
-— Anonymous Slushie, Paradise Heights
-
-*"I can lift a car. I can punch through concrete. I can't sleep through the night without nightmares. Which power matters more?"*  
-— Marcus "Tank" Johnson
-
-*"We were promised paradise. They gave us hell. So we're making our own paradise. One block at a time."*  
-— Player Character (probably)
 
 ---
 

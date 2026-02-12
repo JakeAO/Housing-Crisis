@@ -7,12 +7,6 @@ permalink: /info/
 
 This page contains player-facing rules clarifications, cheat sheets, and game mechanics for the Housing Crisis campaign using Ray Winninger's Underground RPG.
 
-## Core Resources
-
-- **Underground RPG** – Original rulebook by Ray Winninger (Mayfair Games, 1993)
-- **Social Change System** – Neighborhood improvement mechanics central to this campaign
-- **Power Generation** – Slushie abilities and creative applications
-
 ## Quick Reference
 
 Below are campaign-specific resources and rules clarifications, organized by topic.

@@ -5,8 +5,6 @@ topic: Character Creation
 summary: Creating your genetically engineered super-soldier for Housing Crisis
 ---
 
-# Character Creation: Slushies
-
 ## What is a Slushie?
 
 "Slushie" is military slang for a genetically engineered super-soldier. The name comes from the cryogenic "slush" tanks used during the bioengineering process. You survived genetic modification, combat conditioning, psychological programming, and multiple covert wars. The government promised you paradise. They gave you a war zone.
@@ -15,11 +13,11 @@ summary: Creating your genetically engineered super-soldier for Housing Crisis
 
 Start with a strong concept that answers these questions:
 
-1. **What branch of service?** (Army, Navy, Marines, CIA Black Ops, Corporate Security)
-2. **What was your specialty?** (Infiltration, Heavy Combat, Tactical Support, Recon, Demolitions)
-3. **What war did you fight in?** (Central American Brush Wars, Corporate Resource Conflicts, Anti-Insurgency Operations)
-4. **What broke you?** (What made them discharge you? PTSD? Ethical objections? Too many questions?)
-5. **What keeps you going?** (Why fix Paradise Heights instead of just leaving?)
+1. **What branch of service?**
+2. **What was your specialty?**
+3. **What theatres did you fight in?**
+4. **What broke you?**
+5. **What keeps you going?**
 
 ## Attributes
 
@@ -43,16 +41,12 @@ Underground uses six attributes rated from 1-10 (human average is 3-4):
 
 Every Slushie has 2-3 superhuman abilities from their genetic engineering. Powers are rated in levels (typically 1-5 for starting characters).
 
-### Power Generation Methods
+### Power Generation Method
 
-**Method 1: Point Buy (Recommended)**
+**Point Buy**
 - You have **15 Power Points** to spend
 - Powers cost: Level 1 = 2 pts, Level 2 = 4 pts, Level 3 = 6 pts, Level 4 = 8 pts, Level 5 = 10 pts
 - Example: Enhanced Strength 3 (6 pts) + Regeneration 2 (4 pts) + Enhanced Reflexes 2 (4 pts) = 14 pts
-
-**Method 2: Random Generation**
-- Roll on the Slushie Power Tables (see GM for tables)
-- More unpredictable but creates interesting combinations
 
 ### Common Slushie Powers
 
@@ -110,22 +104,20 @@ Define your character's history:
 1. **Pre-Military Life:** Where did you come from? (Most Slushies recruited from desperate circumstances)
 2. **Military Service:** What did you do? What did you see?
 3. **The Lie:** What did they promise you about Veteran's Paradise?
-4. **The Reality:** How did you react when you saw Paradise Heights?
+4. **The Reality:** How did you react when you saw the real Paradise Heights?
 5. **Your Goal:** What part of fixing this place matters most to you?
 
 ## Equipment
 
 Standard Slushie starting gear:
 
-- **Worn Combat Fatigues** (may or may not have unit patches removed)
-- **Personal Sidearm** (9mm pistol or similar)
+- **Worn Combat Fatigues**
+- **Personal Sidearm**
 - **Military Knife** 
 - **Veteran's ID Card** (mostly useless but technically grants benefits)
 - **Backpack** with basic supplies
 - **$500 in Cash** (your first month's "pension")
 - **One Personal Item** (something that keeps you human)
-
-Additional gear must be acquired during play (or "liberated" from corporate warehouses).
 
 ## Complications
 
@@ -148,35 +140,6 @@ You gain Experience Points (XP) for:
 - Improving neighborhood stats (Social Change)
 - Good roleplay
 - Overcoming complications
-
-**Advancement Costs:**
-- Increase Attribute: 5 XP per level
-- Increase Power: 3 XP per level
-- Increase Skill: 2 XP per level
-- Learn New Power: 5 XP
-- Learn New Skill: 3 XP
-
-## Example Character: Marcus "Tank" Johnson
-
-**Concept:** Heavy combat specialist trying to protect vulnerable residents
-
-**Attributes:** STR 8, DEX 5, CON 8, INT 3, WIL 6, CHA 3
-
-**Powers:**
-- Enhanced Strength 3 (lift cars, punch through walls)
-- Enhanced Durability 3 (shrug off bullets)
-- Regeneration 1 (heal minor wounds in hours)
-
-**Skills:**
-- Hand-to-Hand Combat 5
-- Firearms 4
-- Intimidation 5
-- Tactics 3
-- Leadership 4
-
-**Complication:** Survivor's Guilt (lost his whole unit in final operation)
-
-**Goal:** Make Paradise Heights safe so no one else has to die
 
 ---
 

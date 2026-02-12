@@ -7,7 +7,7 @@ permalink: /sessions/
 
 # Session Summaries
 
-This page chronicles the transformation of Paradise Heights across 20 sessions, tracking victories, setbacks, and the community's journey from war zone to thriving neighborhood.
+This page chronicles the transformation of Paradise Heights, tracking victories, setbacks, and the community's journey from war zone to thriving neighborhood.
 
 {% assign items = site.sessions | sort: 'index' %}
 
@@ -23,9 +23,9 @@ This page chronicles the transformation of Paradise Heights across 20 sessions, 
 
 ---
 
-## Campaign Progress
+## Paradise Heights
 
-**Current Statistics** (updated after each session):
+**Current Statistics**:
 
 - **Safety:** TBD
 - **Employment:** TBD  
@@ -37,8 +37,6 @@ This page chronicles the transformation of Paradise Heights across 20 sessions, 
 - **Corruption:** TBD (lower is better)
 
 **Quality of Life Score:** TBD out of 60
-
-**Sessions Completed:** 0 of 20
 
 ---
 

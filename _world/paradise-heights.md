@@ -5,8 +5,6 @@ topic: Locations
 summary: Your home, your mission, and the city that wants you gone
 ---
 
-# Neo-L.A. and Paradise Heights
-
 ## Neo-L.A. (Formerly Los Angeles)
 
 After the Big One (the 8.9 earthquake of 2027) and the subsequent corporate "reconstruction," Los Angeles became **Neo-L.A.**—a monument to inequality, urban decay, and corporate branding.
@@ -23,7 +21,7 @@ After the Big One (the 8.9 earthquake of 2027) and the subsequent corporate "rec
 **The Grid (Mid Neo-L.A.):**
 - Functioning urban districts
 - Corporate campuses, shopping centers, entertainment zones
-- Police (real police) actually respond to calls
+- Police (real police) might actually respond to calls
 - Middle class clings to employment
 - Population: Workers, middle management, professionals
 
@@ -31,7 +29,7 @@ After the Big One (the 8.9 earthquake of 2027) and the subsequent corporate "rec
 - Crumbling infrastructure, gang territories, desperation
 - Where Paradise Heights is located
 - Rent-A-Cops collect protection money
-- Real cops don't come here
+- Real cops don't avoid it
 - Population: The poor, the desperate, the forgotten
 - **This is your world now.**
 
@@ -68,7 +66,7 @@ After the Big One (the 8.9 earthquake of 2027) and the subsequent corporate "rec
 **Official Name:** Paradise Heights Luxury Veterans' Residence  
 **Reality:** A 40-story crumbling housing project
 
-**The Lie (From the Brochure):**
+**From the Brochure:**
 - "State-of-the-art facilities for our heroes"
 - "24/7 security and medical care"
 - "Community recreation and job training"
@@ -169,37 +167,6 @@ Paradise Heights consists of five connected towers:
 - Mentally ill (no treatment)
 - **These are who you're really protecting**
 
-### Current Conditions (Session 1)
-
-**Infrastructure:**
-- Power: Intermittent, brownouts daily
-- Water: Contaminated, needs filtering/boiling
-- Elevators: 8 of 20 functional
-- Heat/AC: Broken
-- Waste: Trash piles, sewage leaks
-- Safety: None
-
-**Security Situation:**
-- Red Kings (East): 40+ members, heavily armed, drug trade
-- Chrome Disciples (West): 30+ members, tech theft, smuggling
-- Rent-A-Cops: 12 officers, corrupt, extorting residents
-- Vigilantes: Small groups, ineffective
-- You: Just arrived, unknown quantity
-
-**Economics:**
-- Unemployment: 85%+
-- Income sources: Day labor, gang work, prostitution, begging
-- Cost of living: Higher than Grid (price gouging)
-- Debt: Everyone owes someone
-- Hope: Minimal
-
-**Social Climate:**
-- Trust: Zero (everyone's desperate)
-- Community: Broken
-- Organization: Failed attempts
-- Morale: Survival mode
-- Outlook: Grim
-
 ## The Neighboring Zones
 
 **Meat Market District (North):**
@@ -225,91 +192,6 @@ Paradise Heights consists of five connected towers:
 - Checkpoints, surveillance, walls
 - Where the "respectable" world pretends you don't exist
 - Where you can see how the other half lives
-
-## Your Mission
-
-**Starting State:**
-- QoL: 12 out of 60
-- Safety: 2 (gang war zone)
-- Health: 1 (contaminated water, no medical)
-- Infrastructure: 2 (collapsing)
-- Hope: Nearly none
-
-**Goal State (Session 20):**
-- QoL: 40+ (functioning community)
-- Safety: 7+ (secure neighborhood)
-- Health: 7+ (clinic, clean water, care)
-- Infrastructure: 7+ (working utilities, maintained buildings)
-- Hope: Enough to matter
-
-**The Path:**
-- 20 sessions
-- 3 campaign arcs
-- Countless tough choices
-- One neighborhood
-- 15,000 lives
-
-## What Paradise Heights Could Be
-
-**If you succeed:**
-- Clean water flowing
-- Lights that stay on
-- Elevators that work
-- Streets safe for children
-- Medical clinic treating patients
-- Schools teaching kids
-- Jobs providing income
-- Community gardens growing food
-- Residents helping each other
-- Hope replacing despair
-
-**A place where people can live, not just survive.**
-
-**Not paradise. But close enough.**
-
-## The Name Itself
-
-**"Paradise Heights"** - The cruelest joke:
-
-The brochure showed:
-- Rooftop gardens
-- Swimming pools
-- Community centers
-- Sunset views
-
-The reality is:
-- Rooftops are too dangerous
-- Pools are empty (or worse)
-- Community centers are gang headquarters
-- Sunset views of urban decay
-
-**But the name remains. A constant reminder of what was promised. What was stolen. What you're fighting to reclaim.**
-
-Maybe it'll never be the paradise they promised. But it can be better than this.
-
----
-
-## GM Notes (Players: Stop Reading Here)
-
-**Paradise Heights is designed to feel hopeless at first:**
-- Every stat is terrible
-- Multiple threats
-- Limited resources
-- Resident distrust
-
-**But improvement should be visible:**
-- Each session, something gets better
-- Residents notice and respond
-- Small victories build momentum
-- By session 10, it should feel winnable
-- By session 15, it should feel threatened
-- By session 20, it should feel earned
-
-**Balance:**
-- Don't make it too easy (every victory is earned)
-- Don't make it impossible (progress must be visible)
-- Let players feel powerful (they're Slushies)
-- Let them feel responsible (collateral damage matters)
 
 ---
 

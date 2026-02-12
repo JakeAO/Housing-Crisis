@@ -5,8 +5,6 @@ topic: Combat
 summary: Superhuman violence and collateral damage in the dystopia
 ---
 
-# Combat & Powers Quick Reference
-
 ## Combat Overview
 
 Underground combat is fast, deadly, and messy. Your superhuman abilities make you powerful—but not invincible. And every fight has consequences.
@@ -230,53 +228,8 @@ Slushies with Enhanced Durability power:
 
 **Injuries that drop you to 0 CON or below create lasting trauma:**
 - Physical scars
-- Psychological stress (PTSD triggers)
-- Permanent ability loss (GM discretion)
-
-## Combat Consequences
-
-### Civilian Casualties
-
-**Every civilian death:**
-- Morale -1
-- Safety -1
-- Your reputation suffers
-
-**GM tracks collateral damage visibly. Players face consequences for reckless violence.**
-
-### Gang Retaliation
-
-Defeating gangs without addressing root causes:
-- New gangs move in
-- Survivors regroup and retaliate
-- Safety improvements are temporary
-
-**Sustainable solution:** Combine force with Social Change improvements (Employment, Education)
-
-### Corporate Attention
-
-High-profile superhuman violence attracts notice:
-- Corporate security investigates
-- Media coverage (usually negative)
-- Accelerates timeline to corporate pushback arc
-
-**Stealth and precision prevent escalation. Flashy displays have consequences.**
-
-## Combat Tips
-
-**For Players:**
-1. **Fight smart, not hard:** Use terrain, tactics, and teamwork
-2. **Minimize collateral damage:** Protect what you're trying to save
-3. **Know when to retreat:** You can't save everyone if you're dead
-4. **Use powers strategically:** Save high-level displays for when you need them
-5. **Remember you're the good guys:** How you fight matters
-
-**For GMs:**
-1. **Make violence consequential:** Track collateral damage to stats
-2. **Humanize opponents:** Even gang members have reasons
-3. **Reward creative tactics:** Let players feel superhuman and smart
-4. **Don't pull punches:** This is a dangerous world
-5. **Balance power fantasy with moral weight:** Power without responsibility is just tyranny
+- Psychological stress
+- Permanent ability loss
 
 ---
 

@@ -17,9 +17,6 @@
       <div class="nav-items">
         {%- for page in nav_pages -%}
           {%- if page.title -%}
-          {%- if page != nav_pages.first -%}
-            <span class="nav-separator">/</span>  
-          {%- endif -%}
           <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
           {%- endif -%}
         {%- endfor -%}

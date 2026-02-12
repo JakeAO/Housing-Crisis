@@ -89,9 +89,6 @@ The real rulers of society. Each controls entire industries:
 - Police enforce debt collection and eviction notices
 - Politicians rotate into corporate boards after "public service"
 
-**The Fiction:** "Government of the people, by the people, for the people"  
-**The Reality:** "Government of the corporations, by the lobbyists, for the shareholders"
-
 ### Rent-A-Cops (Sentinel Security)
 
 The privatized police force:
@@ -193,73 +190,6 @@ Every story serves a sponsor:
 **Insurance:** Exists primarily to deny coverage and maximize profit
 
 **Emergency Rooms:** Legally required to stabilize you, then send you a bill that ruins your life
-
-## Themes and Tone
-
-### Satirical Dystopia
-
-Underground exaggerates real problems to absurdity:
-
-- Corporate power → Complete corporate control
-- Media bias → Pure propaganda
-- Economic inequality → Feudalism with better branding
-- Privatization → Literally everything is for sale
-- Consumer culture → Identity through product choices
-
-**It's darkly funny because it's only slightly worse than reality.**
-
-### Dark Humor
-
-The setting invites gallows humor:
-
-- Tastee-Goo commercials with dead-eyed actors
-- Rent-A-Cops demanding bribes professionally
-- TV news reporting riots as "consumer enthusiasm"
-- Corporate slogans that accidentally tell the truth
-- Government officials saying "We're listening" while ignoring everyone
-
-**Players should feel free to mock the dystopia while fighting it.**
-
-### Hope Through Action
-
-Despite everything, this is a campaign about **making things better**:
-
-- You can't fix the whole world
-- You can fix Paradise Heights
-- Every neighborhood improved is a victory
-- Every resident protected matters
-- Resistance is possible, even in dystopia
-
-**The message:** Systems seem invincible until people decide they're not.
-
-## Cultural Touchstones
-
-**Movies that capture the vibe:**
-- **Robocop:** Satirical corporate dystopia, privatized police, ultra-violence
-- **Judge Dredd:** Failing urban zones, law vs. justice, brutal efficiency
-- **Escape from New York:** Abandoned urban zones, survival, cynical heroes
-- **The Warriors:** Gang-controlled territories, tribal loyalty, street-level conflict
-- **Brazil:** Bureaucratic absurdity, systemic failure, resistance through cracks
-- **Blade Runner:** Neon-lit decay, corporate monuments, human cost
-
-**Underground is all of these, played for dark laughs and real stakes.**
-
-## What This Means for Your Character
-
-**You were made by this system:**
-- Genetically engineered by corporate-funded military programs
-- Conditioned to serve power without question
-- Deployed in secret wars for corporate resources
-- Promised luxury, given a slum
-
-**You have a choice:**
-- Accept what they gave you and survive
-- Fight to make one small piece of the world better
-- Maybe, just maybe, inspire others to do the same
-
-**You can't save the world. But you can save Paradise Heights.**
-
-And maybe that's enough.
 
 ---
 
